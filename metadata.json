@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MedLink AI - Intelligent Healthcare Booking",
+  "description": "A comprehensive healthcare platform featuring an AI-driven symptom checker, seamless doctor appointment booking, and role-based dashboards for patients and practitioners.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
